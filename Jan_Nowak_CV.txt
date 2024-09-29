@@ -1,0 +1,18 @@
+Name: Jan Nowak
+Email: jan.nowak@email.com
+Phone: +48 987 654 321
+
+Objective:
+Jestem zainteresowany karierą w testowaniu oprogramowania. Chciałbym rozwijać się w tej dziedzinie i zdobyć certyfikację ISTQB.
+
+Experience:
+Pracownik obsługi klienta w firmie ABC - zarządzanie zgłoszeniami klientów (1 rok)
+
+Education:
+Technik Informatyk, Zespół Szkół Technicznych w Krakowie
+
+Skills:
+Testowanie manualne, podstawy SQL, obsługa JIRA
+
+Languages:
+Polski (ojczysty), Angielski (zaawansowany)
