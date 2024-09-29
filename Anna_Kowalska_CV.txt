@@ -1,0 +1,18 @@
+Name: Anna Kowalska
+Email: anna.kowalska@email.com
+Phone: +48 123 456 789
+
+Objective:
+Chciałabym rozpocząć karierę w programowaniu front-end. Mam doświadczenie w pracy z HTML, CSS i uczę się JavaScript.
+
+Experience:
+Praktykantka w firmie XYZ - tworzenie stron internetowych (2 miesiące)
+
+Education:
+Licencjat z Informatyki, Politechnika Warszawska
+
+Skills:
+HTML, CSS, podstawy JavaScript, Git
+
+Languages:
+Polski (ojczysty), Angielski (średniozaawansowany)
